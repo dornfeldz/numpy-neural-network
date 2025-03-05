@@ -1,6 +1,7 @@
 import numpy as np
 import math
 
+# Income, Credit Score, Debt-to-Income Ratio, Loan Approved
 normalized_data = [
     [[0.5556, 0.8471, 0.3636], 1],
     [[0.3333, 0.7647, 0.6364], 0],
